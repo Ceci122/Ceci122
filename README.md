@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ceci122
-- 👀 I’m interested in gaming, movies, reading, hiking, enjoying life!
-- 🌱 I’m currently learning Python. Wish me luck! 
-- 💞️ I’m looking to collaborate with other people also learning Python or any language but preferablly Python.
+- 👀 I’m interested in gaming, movies, reading, and hiking.
+- 🌱 I’m currently dabbling in Front-end web dev and Python.
+- 💞️ I’m looking to collaborate and connect with other IT professionals.
 - 📫 How to reach me... Just shoot me a message!
 
 <!---
