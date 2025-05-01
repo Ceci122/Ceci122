@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ceci122
+- 👋 Hi, I’m a Web Developer and I'm passionate about creating cool stuff.
 - 👀 I’m interested in gaming, movies, reading, and hiking.
-- 🌱 I’m currently dabbling in Front-end web dev and Python.
+- 🌱 I’m currently taking a BootCamp with MIT in Full-Stack web dev and Python.
 - 💞️ I’m looking to collaborate and connect with other IT professionals.
 - 📫 How to reach me... Just shoot me a message!
 
