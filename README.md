@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a Web Developer and I'm passionate about creating cool stuff.
+- 👋 Hi, I’m a Software Developer and I'm passionate about creating cool stuff.
 - 👀 I’m interested in gaming, movies, reading, and hiking.
 - 🌱 I’m currently taking a BootCamp with MIT in Full-Stack web dev and Python.
 - 💞️ I’m looking to collaborate and connect with other IT professionals.
