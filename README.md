@@ -10,7 +10,7 @@
 <a href="https://github.com/Ceci122">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ceci122&layout=compact&langs_count=6&theme=radical" />
 </a>
-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Ceci122)](https://github.com/Ceci122/github-readme-stats)
+- [[github-readme-stats.vercel.app](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Ceci122/Ceci122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
